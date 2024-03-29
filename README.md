@@ -17,6 +17,9 @@ individual.
 Notice the Plots update when a new sample is selected. For my specific color of the bubble chart I felt that the Rainbow colorscale was
 the most 'eye-catching'. 
 
+The URL below is the app deployed, enjoy!
+https://tonycota.github.io/belly-button-challenge/
+
 
 Below are the instructions the class was given for the assignment: 
 
